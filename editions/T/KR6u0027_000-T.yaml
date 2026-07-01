@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6u0027/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 山海慧菩薩經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2891.xml
+    old_id: T85n2891
+hash: sha256:a6ddb17f918ebbab7fe6b3f700b4eacc2c3379ab6b4263fd9ca29a478d4e64fd
