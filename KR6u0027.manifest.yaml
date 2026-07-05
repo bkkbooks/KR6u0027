@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6u0027_000.yaml, hash: 'sha256:a6ddb17f918ebbab7fe6b3f700b4eacc2c3379ab6b4263fd9ca29a478d4e64fd'}
-  - {seq: 1, filename: KR6u0027_001.yaml, hash: 'sha256:42a5c54ced86f81b4a843d4908057bccf6e0441b7f2534eca7e99c246e4a8659'}
+  - {seq: 1, filename: KR6u0027_001.yaml, hash: 'sha256:37975e6387360d1998ead7d6f65013cb89f94d6e56af863284020eb3610155fc'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6u0027_001.markers.yaml, hash: 'sha256:e8e2489b4f5f0a09942d5f4c9871291f5fedefdd9fbfbebc122a97110a279f32'}
+  - {seq: 0, role: markers, filename: assets/KR6u0027_000.markers.yaml, hash: 'sha256:4aeb0dcda66a22a998bcf1c67209d22a02aa295d64e69bff0610d98d18eca552'}
+  - {seq: 1, role: markers, filename: assets/KR6u0027_001.markers.yaml, hash: 'sha256:ddd9d4817eb4fed94f195ca534963dd86b5e080fd1c476fbd7c7773d637e557e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,9 +52,6 @@ table_of_contents:
   label: 2 菩薩見佛國往生品
   type: mulu
   level: 1
-hash: sha256:e786f009578a84647b35ec282c151cfcb94b69ab299e54ff4e5e135e523ef4ca
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d361ef5ce7ec9d7bd3d95b5f54330a077bdfb5eb96f6ef709a2a6d96f1de53c1
 editions:
 - short: T
